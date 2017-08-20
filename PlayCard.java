@@ -1,8 +1,3 @@
-/* hw2 
- Name: Zhengyang Qi
- SID: 204296544
- Date: 01/28/2017
- */
 
 import java.util.*;
 public class PlayCard {
